@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Eproject Online Book Store\\Eproject Online Book Store\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eproject Online Book Store.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Eproject Online Book Store.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Eproject Online Book Store\\Eproject Online Book Store\\wwwroot\\Book_Image\\2a8441d8-d110-4f9c-80e1-3b039795da7c_Alexander Hamilton.jpg",
+      "PackagePath": "staticwebassets\\Book_Image\\2a8441d8-d110-4f9c-80e1-3b039795da7c_Alexander Hamilton.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Eproject Online Book Store\\Eproject Online Book Store\\wwwroot\\Book_Image\\fcc8483b-71e6-4768-9d33-71fa36f02e55_Alexander Hamilton.jpg",
+      "PackagePath": "staticwebassets\\Book_Image\\fcc8483b-71e6-4768-9d33-71fa36f02e55_Alexander Hamilton.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Eproject Online Book Store\\Eproject Online Book Store\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Eproject Online Book Store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Eproject Online Book Store.props",
+      "PackagePath": "build\\Eproject Online Book Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Eproject Online Book Store.props",
+      "PackagePath": "buildMultiTargeting\\Eproject Online Book Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Eproject Online Book Store.props",
+      "PackagePath": "buildTransitive\\Eproject Online Book Store.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
