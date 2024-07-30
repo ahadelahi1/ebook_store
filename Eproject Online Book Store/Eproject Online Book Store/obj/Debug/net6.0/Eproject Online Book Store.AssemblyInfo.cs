@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eproject Online Book Store")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d1ef950b168faad9c30e927082192bcaff1606c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eproject Online Book Store")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eproject Online Book Store")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

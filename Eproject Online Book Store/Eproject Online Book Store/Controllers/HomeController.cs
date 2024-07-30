@@ -11,6 +11,12 @@ namespace Eproject_Online_Book_Store.Controllers
      
         Connection db = new Connection();
 
+        public IActionResult Login()
+        {
+            return View();
+        }
+
+
         [HttpPost]
         public IActionResult Login(string email, string pass)
         {
@@ -97,6 +103,7 @@ namespace Eproject_Online_Book_Store.Controllers
             return View();
         }
 
+       
 
         public IActionResult Detail()
         {
