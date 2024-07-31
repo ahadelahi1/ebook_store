@@ -149,10 +149,25 @@
                                
                                 <a asp-action="contact" class="nav-item nav-link">Contact</a>
                             </div>
+                              @if(TempData.ContainsKey("name"))
+                        {
+                            <div class="navbar-nav ml-auto py-0">
+                                <span>
+                                    welcome !   @TempData["name"] 
+                                </span>
+                                <span class="ml-3">
+                                    <a asp-action="logout">Log out</a>
+                                </span>
+                            </div>
+                        }
+                       
+                        else
+                        {
                             <div class="navbar-nav ml-auto py-0">
                                 <a asp-action="Login" class="nav-item nav-link">Login</a>
                                 <a asp-action="register" class="nav-item nav-link">Registers</a>
                             </div>
+                        }
                         </div>
                     </nav>
                     <div id="header-carousel" class="carousel slide" data-ride="carousel">
@@ -233,6 +248,7 @@
                     <div class="col-md-4 mb-5">
                         <h5 class="font-weight-bold text-dark mb-4">Connect with Us</h5>
 
+                      
                         <div>
                             <button class="btn btn-primary btn-block border-0 py-3" type="submit">Login Now</button>
                         </div>
@@ -241,7 +257,9 @@
                             <div>
                                 <button class="btn btn-primary btn-block border-0 py-3" type="submit">Register Now</button>
                             </div>
-                       
+
+                        
+                        
                     </div>
                 </div>
             </div>

@@ -27,10 +27,8 @@ namespace Eproject_Online_Book_Store.Controllers
                 var data = db.Users.Where(x => x.Email == email && x.Password == pass).FirstOrDefault();
                 if (data != null)
                 {
-                    HttpContext.Session.SetString("xyz", data.Email);
-                    var name = HttpContext.Session.GetString("xyz");
-
-                    ViewBag.Name = name;
+                    HttpContext.Session.SetString("name", data.Name);
+                    
 
                     return RedirectToAction("Index");
                 }
@@ -61,7 +59,17 @@ namespace Eproject_Online_Book_Store.Controllers
 
         public IActionResult Index()
         {
+            if(HttpContext.Session.GetString("name") != null)
+            {
+            TempData["name"] = HttpContext.Session.GetString("name");
+            }
             return View();
+        }
+
+        public IActionResult logout()
+        {
+            HttpContext.Session.Clear();
+            return RedirectToAction("Index");
         }
 
         public IActionResult AddBooks()
