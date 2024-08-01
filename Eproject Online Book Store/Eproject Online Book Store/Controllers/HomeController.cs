@@ -1,4 +1,6 @@
-﻿using System.Diagnostics;
+﻿using Microsoft.AspNetCore;
+
+using System.Diagnostics;
 
 using Eproject_Online_Book_Store.Models;
 
@@ -101,12 +103,14 @@ namespace Eproject_Online_Book_Store.Controllers
         }
 
 
-        public IActionResult shop()
+        public IActionResult Shop()
         {
             return View();
         }
 
-        public IActionResult contact()
+
+       
+        public IActionResult Contact()
         {
             return View();
         }
@@ -117,7 +121,12 @@ namespace Eproject_Online_Book_Store.Controllers
         {
             return View();
         }
-        public IActionResult checkout()
+        public IActionResult Checkout()
+        {
+            return View();
+        }
+
+        public IActionResult cart()
         {
             return View();
         }
@@ -127,6 +136,41 @@ namespace Eproject_Online_Book_Store.Controllers
             return View();
         }
 
-       
+        public IActionResult History()
+        {
+            return View();
+        }
+
+        public IActionResult Biography()
+        {
+            return View();
+        }
+
+        public IActionResult Science()
+        {
+            return View();
+        }
+
+        public IActionResult Novels()
+        {
+            return View();
+        }
+
+        public IActionResult Utility()
+        {
+            return View();
+        }
+
+
+
+
+
+
+
+
+
+
+
+
     }
 }

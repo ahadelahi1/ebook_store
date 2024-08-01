@@ -9,65 +9,91 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Eproject_Online_Book_Store
 build_property.RootNamespace = Eproject_Online_Book_Store
-build_property.ProjectDir = C:\Users\asp\Documents\GitHub\ebook_store\Eproject Online Book Store\Eproject Online Book Store\
+build_property.ProjectDir = C:\Users\Ahad Elahi\Documents\GitHub\ebook_store\Eproject Online Book Store\Eproject Online Book Store\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\asp\Documents\GitHub\ebook_store\Eproject Online Book Store\Eproject Online Book Store
+build_property.MSBuildProjectDirectory = C:\Users\Ahad Elahi\Documents\GitHub\ebook_store\Eproject Online Book Store\Eproject Online Book Store
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/asp/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/AddBooks.cshtml]
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/AddBooks.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRCb29rcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/Cart.cshtml]
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/Biography.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCaW9ncmFwaHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/checkout.cshtml]
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjaGVja291dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/Detail.cshtml]
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/Index.cshtml]
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/History.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIaXN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/Login.cshtml]
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/Privacy.cshtml]
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/Novels.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb3ZlbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/register.cshtml]
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxyZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/shop.cshtml]
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/Science.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTY2llbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/shop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzaG9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Shared/Error.cshtml]
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Home/Utility.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVdGlsaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/_ViewImports.cshtml]
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/_ViewStart.cshtml]
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Shared/_Layout.cshtml]
+[C:/Users/Ahad Elahi/Documents/GitHub/ebook_store/Eproject Online Book Store/Eproject Online Book Store/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-n9f4m8t3k7

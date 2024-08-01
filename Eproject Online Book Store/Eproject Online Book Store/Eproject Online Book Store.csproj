@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="Views\Home\Contact.cshtml" />
     <Content Remove="wwwroot\css\regformstyle.css" />
     <Content Remove="wwwroot\css\regformstyle.css.map" />
     <Content Remove="wwwroot\css\style.css" />
@@ -267,7 +266,6 @@
     <None Include="colorlib-regform-7\.sass-cache\7643c8aa2e335ff5e104bc47d8dd7f1a0693bb39\variables.scssc" />
     <None Include="colorlib-regform-7\.sass-cache\9dc767a56f3dc2f8a933300255cd2265f13191d4\main.scssc" />
     <None Include="colorlib-regform-7\.sass-cache\9dc767a56f3dc2f8a933300255cd2265f13191d4\responsive.scssc" />
-    <None Include="Views\Home\Contact.cshtml" />
     <None Include="wwwroot\.sass-cache\21880c0ffe15753a53f8402e9f64e1077e071510\style.scssc" />
     <None Include="wwwroot\.sass-cache\2866be86c578bb583fbf023501bb9fd24cc3bf22\extend.scssc" />
     <None Include="wwwroot\.sass-cache\2866be86c578bb583fbf023501bb9fd24cc3bf22\fonts.scssc" />
@@ -378,7 +376,6 @@
     <None Include="wwwroot\images\signin-image.jpg" />
     <None Include="wwwroot\images\signup-image.jpg" />
     <None Include="wwwroot\img\carousel-1.jpg" />
-    <None Include="wwwroot\img\carousel-2.jpg" />
     <None Include="wwwroot\img\cat-1.jpg" />
     <None Include="wwwroot\img\cat-2.jpg" />
     <None Include="wwwroot\img\cat-3.jpg" />
@@ -537,14 +534,6 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\Book_Image\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <UpToDateCheckInput Remove="Views\Home\Contact.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <_ContentIncludedByDefault Remove="Views\Home\Contact.cshtml" />
   </ItemGroup>
 
 </Project>
