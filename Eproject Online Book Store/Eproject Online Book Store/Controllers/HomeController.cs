@@ -1,4 +1,6 @@
-﻿using System.Diagnostics;
+﻿using Microsoft.AspNetCore;
+
+using System.Diagnostics;
 
 using Eproject_Online_Book_Store.Models;
 
@@ -27,10 +29,8 @@ namespace Eproject_Online_Book_Store.Controllers
                 var data = db.Users.Where(x => x.Email == email && x.Password == pass).FirstOrDefault();
                 if (data != null)
                 {
-                    HttpContext.Session.SetString("xyz", data.Email);
-                    var name = HttpContext.Session.GetString("xyz");
-
-                    ViewBag.Name = name;
+                    HttpContext.Session.SetString("name", data.Name);
+                    
 
                     return RedirectToAction("Index");
                 }
@@ -61,7 +61,17 @@ namespace Eproject_Online_Book_Store.Controllers
 
         public IActionResult Index()
         {
+            if(HttpContext.Session.GetString("name") != null)
+            {
+            TempData["name"] = HttpContext.Session.GetString("name");
+            }
             return View();
+        }
+
+        public IActionResult logout()
+        {
+            HttpContext.Session.Clear();
+            return RedirectToAction("Index");
         }
 
         public IActionResult AddBooks()
@@ -93,12 +103,14 @@ namespace Eproject_Online_Book_Store.Controllers
         }
 
 
-        public IActionResult shop()
+        public IActionResult Shop()
         {
             return View();
         }
 
-        public IActionResult contact()
+
+       
+        public IActionResult Contact()
         {
             return View();
         }
@@ -109,7 +121,12 @@ namespace Eproject_Online_Book_Store.Controllers
         {
             return View();
         }
-        public IActionResult checkout()
+        public IActionResult Checkout()
+        {
+            return View();
+        }
+
+        public IActionResult cart()
         {
             return View();
         }
@@ -119,6 +136,41 @@ namespace Eproject_Online_Book_Store.Controllers
             return View();
         }
 
-       
+        public IActionResult History()
+        {
+            return View();
+        }
+
+        public IActionResult Biography()
+        {
+            return View();
+        }
+
+        public IActionResult Science()
+        {
+            return View();
+        }
+
+        public IActionResult Novels()
+        {
+            return View();
+        }
+
+        public IActionResult Utility()
+        {
+            return View();
+        }
+
+
+
+
+
+
+
+
+
+
+
+
     }
 }

@@ -3,56 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\home\\utility.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\views\\home\\utility.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\home\\science.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\views\\home\\science.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\home\\novels.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\views\\home\\novels.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\home\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\views\\home\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\home\\biography.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\views\\home\\biography.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\bootstrap-shop-template\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\bootstrap-shop-template\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\wwwroot\\css\\regformstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\wwwroot\\css\\regformstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\bootstrap-shop-template\\detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\bootstrap-shop-template\\detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\bootstrap-shop-template\\checkout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|solutionrelative:eproject online book store\\bootstrap-shop-template\\checkout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8010AD62-0D06-4509-AFD5-0B6CE7036F8B}|Eproject Online Book Store\\Eproject Online Book Store.csproj|c:\\users\\ahad elahi\\documents\\github\\ebook_store\\eproject online book store\\eproject online book store\\views\\home\\addbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -70,17 +82,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "shop.cshtml",
               "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\shop.cshtml",
               "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\shop.cshtml",
               "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\shop.cshtml",
               "RelativeToolTip": "Eproject Online Book Store\\Views\\Home\\shop.cshtml",
-              "ViewState": "AQIAAGMBAAAAAAAAAAAAAGgBAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-29T13:40:09.487Z",
               "IsPinned": true,
@@ -88,45 +100,175 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\register.cshtml",
-              "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\register.cshtml",
-              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\register.cshtml",
-              "RelativeToolTip": "Eproject Online Book Store\\Views\\Home\\register.cshtml",
-              "ViewState": "AQIAACgAAAAAAAAAAAAwwDgAAAASAAAA",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Eproject Online Book Store\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAswHUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T13:12:50.743Z",
+              "WhenOpened": "2024-08-01T15:36:30.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utility.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Utility.cshtml",
+              "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\Utility.cshtml",
+              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Utility.cshtml",
+              "RelativeToolTip": "Eproject Online Book Store\\Views\\Home\\Utility.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwBwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T15:32:06.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "regformstyle.css",
+              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\wwwroot\\css\\regformstyle.css",
+              "RelativeDocumentMoniker": "Eproject Online Book Store\\wwwroot\\css\\regformstyle.css",
+              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\wwwroot\\css\\regformstyle.css",
+              "RelativeToolTip": "Eproject Online Book Store\\wwwroot\\css\\regformstyle.css",
+              "ViewState": "AQIAAJIBAAAAAAAAAAAmwJwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-01T13:25:58.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Cart.cshtml",
+              "RelativeToolTip": "Eproject Online Book Store\\Views\\Home\\Cart.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T13:40:09.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Eproject Online Book Store\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAwwHsAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T13:40:09.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Science.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Science.cshtml",
+              "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\Science.cshtml",
+              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Science.cshtml",
+              "RelativeToolTip": "Eproject Online Book Store\\Views\\Home\\Science.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:39:35.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Novels.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Novels.cshtml",
+              "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\Novels.cshtml",
+              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Novels.cshtml",
+              "RelativeToolTip": "Eproject Online Book Store\\Views\\Home\\Novels.cshtml",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAswOEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:39:55.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Eproject Online Book Store\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Eproject Online Book Store\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAgwJ4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:40:09.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\History.cshtml",
+              "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\History.cshtml",
+              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\History.cshtml",
+              "RelativeToolTip": "Eproject Online Book Store\\Views\\Home\\History.cshtml",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAswOMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:33:44.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Biography.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Biography.cshtml",
+              "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\Biography.cshtml",
+              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Biography.cshtml",
+              "RelativeToolTip": "Eproject Online Book Store\\Views\\Home\\Biography.cshtml",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAswOIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:38:33.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "Eproject Online Book Store\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T13:40:09.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\Login.cshtml",
               "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Login.cshtml",
               "RelativeToolTip": "Eproject Online Book Store\\Views\\Home\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-30T13:12:43.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "checkout.html",
-              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\bootstrap-shop-template\\checkout.html",
-              "RelativeDocumentMoniker": "Eproject Online Book Store\\bootstrap-shop-template\\checkout.html",
-              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\bootstrap-shop-template\\checkout.html",
-              "RelativeToolTip": "Eproject Online Book Store\\bootstrap-shop-template\\checkout.html",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-07-29T13:40:09.446Z"
+              "DocumentIndex": 14,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\register.cshtml",
+              "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\register.cshtml",
+              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\register.cshtml",
+              "RelativeToolTip": "Eproject Online Book Store\\Views\\Home\\register.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T13:12:50.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "checkout.cshtml",
               "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\checkout.cshtml",
               "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\checkout.cshtml",
@@ -139,107 +281,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Eproject Online Book Store\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAOQAAAAAAAAAAAAswOkAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T13:40:09.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Eproject Online Book Store\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAACsAAAAAAAAAAAAswD8AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T13:40:09.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "detail.html",
-              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\bootstrap-shop-template\\detail.html",
-              "RelativeDocumentMoniker": "Eproject Online Book Store\\bootstrap-shop-template\\detail.html",
-              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\bootstrap-shop-template\\detail.html",
-              "RelativeToolTip": "Eproject Online Book Store\\bootstrap-shop-template\\detail.html",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-07-29T13:40:09.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Eproject Online Book Store\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Eproject Online Book Store\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T13:40:09.612Z",
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\contact.cshtml",
+              "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\contact.cshtml",
+              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\contact.cshtml",
+              "RelativeToolTip": "Eproject Online Book Store\\Views\\Home\\contact.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T14:04:28.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Detail.cshtml",
-              "RelativeToolTip": "Eproject Online Book Store\\Views\\Home\\Detail.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAABYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T13:40:09.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Cart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Cart.cshtml",
-              "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\Cart.cshtml",
-              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Cart.cshtml",
-              "RelativeToolTip": "Eproject Online Book Store\\Views\\Home\\Cart.cshtml",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAswBYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T13:40:09.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "Eproject Online Book Store\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAADMBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T13:40:09.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "contact.html",
-              "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\bootstrap-shop-template\\contact.html",
-              "RelativeDocumentMoniker": "Eproject Online Book Store\\bootstrap-shop-template\\contact.html",
-              "ToolTip": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\bootstrap-shop-template\\contact.html",
-              "RelativeToolTip": "Eproject Online Book Store\\bootstrap-shop-template\\contact.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-07-29T13:40:06.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Books.cs",
               "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Models\\Books.cs",
               "RelativeDocumentMoniker": "Eproject Online Book Store\\Models\\Books.cs",
@@ -251,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "AddBooks.cshtml",
               "DocumentMoniker": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\Views\\Home\\AddBooks.cshtml",
               "RelativeDocumentMoniker": "Eproject Online Book Store\\Views\\Home\\AddBooks.cshtml",

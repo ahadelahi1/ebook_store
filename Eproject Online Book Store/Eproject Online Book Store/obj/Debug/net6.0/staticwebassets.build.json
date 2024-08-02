@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "xuIxEqHTQ5JGuKO9g9g7eCVk96enSvp38hHhb/bFzaI=",
+=======
+  "Hash": "NMb3ENiUZeFazUOhSNdl+cpI94S9mEE34syEduo9JmE=",
+>>>>>>> 01a322aa19d00526c6974e1abc65a4f48903a213
   "Source": "Eproject Online Book Store",
   "BasePath": "_content/Eproject Online Book Store",
   "Mode": "Default",
@@ -100,6 +104,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\wwwroot\\img\\caro-2.jpg",
+      "SourceId": "Eproject Online Book Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahad Elahi\\Documents\\GitHub\\ebook_store\\Eproject Online Book Store\\Eproject Online Book Store\\wwwroot\\",
+      "BasePath": "_content/Eproject Online Book Store",
+      "RelativePath": "img/caro-2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\caro-2.jpg"
     }
   ]
 }
